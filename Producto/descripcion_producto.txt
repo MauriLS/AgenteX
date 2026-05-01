@@ -1,0 +1,11 @@
+Repositorio-backend-AgenteX-dev.zip:
+Contiene el backend/API del proyecto.
+URL pública del repositorio: https://github.com/MauriLS/backend-AgenteX.git
+
+Microservicio-motor-ia-AgenteX-dev:
+Contiene el microservicio Intermediario IA del proyecto.
+URL pública del repositorio: https://github.com/MauriLS/motor-ia-AgenteX.git
+
+base_de_datos.zip:
+Contiene scripts SQL, tablas.
+URL pública del repositorio: https://qojrajpuejvactzertpn.supabase.co
