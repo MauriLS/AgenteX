@@ -9,3 +9,7 @@ URL pública del repositorio: https://github.com/MauriLS/motor-ia-AgenteX.git
 base_de_datos.zip:
 Contiene scripts SQL, tablas.
 URL pública del repositorio: https://qojrajpuejvactzertpn.supabase.co
+
+Repositorio-Frontend-AgenteX.zip
+Contiene el Front del proyecto.
+URL pública del repositorio: https://github.com/MauriLS/Front-AgenteX-
