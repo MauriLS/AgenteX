@@ -13,3 +13,17 @@ URL pública del repositorio: https://qojrajpuejvactzertpn.supabase.co
 Repositorio-Frontend-AgenteX.zip
 Contiene el Front del proyecto.
 URL pública del repositorio: https://github.com/MauriLS/Front-AgenteX-
+
+-------------------- Ejercicios en Clases -----------
+
+Ejericico_1_API
+Contiene trabajo realizado en clases. una API REST local para gestionar donantes 
+
+Ejercicio_2_GH
+Contiene trabajo realizado en clases. Flujo de trabajo profesional con Git y GitHub
+
+Ejercicio_3_SCRUM
+Contiene trabajo realizado en clases. organizar el trabajo del proyecto usando un tablero estilo Kanban en Trello.
+
+Ejercicio_6_Patrones_Arquitectura_y_Despliegue
+Contiene trabajo realizado en clases. Patrones Esenciales de Software para Proyecto de Portafolio
